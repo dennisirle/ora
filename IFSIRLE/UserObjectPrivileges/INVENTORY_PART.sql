@@ -1,0 +1,1 @@
+GRANT SELECT ON ifsapp.inventory_part TO ifsirle WITH GRANT OPTION;
